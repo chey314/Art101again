@@ -1,0 +1,19 @@
+p {color: purple}
+
+p{
+    background: pink;}
+    fish{background: red}
+
+    .high1
+    .high2 { background: 
+        blue;}
+
+ BODY { background: orange; padding: 50px;}       
+
+ #introduction h2 { font-style: italic;}
+#introduction p { font-size: 120%;}
+
+.navigation {
+display: flex;
+gap: 20px;
+}
