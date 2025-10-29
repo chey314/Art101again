@@ -6,3 +6,9 @@ http://127.0.0.1:3000/Art101_new/exercises/lab04.html?serverWindowId=7c4ad0b1-6f
 
 LAB 4 part 2
 http://127.0.0.1:3000/Art101_new/environ/env03.html?serverWindowId=0a23f3c7-7aa2-461f-ba94-96d54befdbfe
+
+Lab 5 part 1
+http://127.0.0.1:3000/Art101_new/exercises/lab5.html?serverWindowId=119bd079-8dfe-44d7-a1da-925a4d7c2854
+
+lab 5 part 2
+http://127.0.0.1:3000/Art101_new/environ/env04lab5.html?serverWindowId=aff5fb58-f60c-43e8-8072-c90fbd2b4b09
