@@ -12,3 +12,6 @@ http://127.0.0.1:3000/Art101_new/exercises/lab5.html?serverWindowId=119bd079-8df
 
 lab 5 part 2
 http://127.0.0.1:3000/Art101_new/environ/env04lab5.html?serverWindowId=aff5fb58-f60c-43e8-8072-c90fbd2b4b09
+
+lab 8
+http://127.0.0.1:3000/Art101_new/environ/env05.html?serverWindowId=14ab50e3-8e04-4c07-b319-d52a53a4f9c1
