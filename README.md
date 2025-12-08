@@ -15,3 +15,6 @@ http://127.0.0.1:3000/Art101_new/environ/env04lab5.html?serverWindowId=aff5fb58-
 
 lab 8
 http://127.0.0.1:3000/Art101_new/environ/env05.html?serverWindowId=14ab50e3-8e04-4c07-b319-d52a53a4f9c1
+
+lab 9
+http://127.0.0.1:3000/environ/env05.html?serverWindowId=bcd38d82-5c5a-4747-a222-dd9f4c907830
